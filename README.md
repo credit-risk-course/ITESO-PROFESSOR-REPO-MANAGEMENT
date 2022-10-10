@@ -1,6 +1,6 @@
 # ITESO Professor Repo Management Tools
 
-![github-repo-relations.drawio.png](github-repo-relations.drawio.png)
+![github-repository-relations.drawio.png](github-repository-relations.drawio.png)
 
 ## Usage
 
@@ -46,7 +46,7 @@ Use the **sync** script to:
 
 If the 3rth step fails due to a merge-conflict, students can update their repo by doing a pull-request from `professor` to `master` in Github and resolving the conflict manually using the UI.
 
-![github-repo-update-process.drawio.png](github-repo-update-process.drawio.png)
+![github-repository-update-process.drawio.png](github-repository-update-process.drawio.png)
 
 ## ITESO Repos
 
